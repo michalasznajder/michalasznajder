@@ -1,5 +1,6 @@
 ### Hi, Im Michał.
-
+I'm a Web Developer.
+I'm currently learning React.js
 <!--
 **michalasznajder/michalasznajder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
